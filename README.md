@@ -17,10 +17,10 @@
 I'm a developer from **New Delhi, India** building full-stack web apps and AI-powered tools.  
 My focus is on **fintech applications** and applying **generative AI** to solve real-world problems.
 
-- 🔭 Currently building: **[YOUR CURRENT PROJECT — replace this]**
+- 🔭 Currently working on: **improving my GitHub projects**
 - 🌱 Currently learning: **Advanced Backend Architecture & System Design**
 - 💼 Actively open to work and new opportunities
-- 📫 Reach me at: **[your-email@gmail.com — replace this]**
+- 📫 Reach me at: **fahadanwar5925@gmail.com**
 - 📍 Based in: **New Delhi, India**
 
 ---
