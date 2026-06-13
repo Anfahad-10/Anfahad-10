@@ -62,9 +62,9 @@ My focus is on **fintech applications** and applying **generative AI** to solve 
 | Project | Description | Stack |
 |---|---|---|
 | [TaxPal-Freelance-Finance](https://github.com/Anfahad-10/TaxPal-Freelance-Finance) | MERN fintech app for gig workers — tax estimation engine + data visualization dashboard | MongoDB, Express, React, Node.js |
-| [FINBRIDGE-Financial-Dashboard](https://github.com/Anfahad-10/FINBRIDGE-Financial-Dashboard) | Financial analytics dashboard with real-time data visualization | React, JavaScript |
+| [BKP-backend-project](https://github.com/Anfahad-10/BKP-backend-project) | This is the backend server for a simple NGO application | JavaScript |
 | [air_quality_pwa](https://github.com/Anfahad-10/air_quality_pwa) | Progressive Web App that sends real-time air quality notifications | JavaScript, PWA |
-| [QA-Portfolio-Fahad](https://github.com/Anfahad-10/QA-Portfolio-Fahad) | Manual testing artifacts, SQL validation queries & Python automation scripts | Python, SQL |
+| [IC-Market-Research-AI](https://github.com/Anfahad-10/IC-Market-Research-AI) | InsightCoder is basically an automated tool built to tackle the challenges of Qualitative Data Analysis (QDA) in Market Research Operations (MROps) | Python |
 
 ---
 
